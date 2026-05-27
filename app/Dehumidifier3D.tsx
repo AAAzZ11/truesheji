@@ -12,7 +12,7 @@ const MODES = [
 ];
 
 // 共用尺寸常數（Scene 層也要用到補光位置）
-const S = 1.5;
+const S = 1.1;
 const BODY_W = 2.2 * S;
 const BODY_H = 3.2 * S;
 const BODY_D = 1.6 * S;
